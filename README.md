@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Sergej and I am a Game Developer with a passion for game engines and photorealistic realtime rendering.
+I live in Berlin, Germany and am currently working for King on Candy Crush Saga.
+
 <!--
 **polygonboutique/polygonboutique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
