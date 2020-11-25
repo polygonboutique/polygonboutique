@@ -6,12 +6,16 @@
 <h2 align="center"> About </h2>
 
 - 🎓 Self-taught C++ developer
+
+- 💖 Computer graphics 
   
 - 🍬 Working on Candy Crush 
   
+- 🔺 OpenGL 4+
+   
 - ⚗️ Currently learning Unreal Engine 4
-  
-- 😻 Co-owner of <a target="_blank" href="https://www.instagram.com/sherlockandwatson_catventures/">Sherlock and Watson - Catventures</a>
+
+- 😻 Co-owner of <a target="blank" href="https://www.instagram.com/sherlockandwatson_catventures/">Sherlock and Watson - Catventures</a>
 
 
 <h2 align="center">🗣️ Social media</h2>  
