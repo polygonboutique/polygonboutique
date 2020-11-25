@@ -1,19 +1,28 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/polygonboutique"><strong>Sergej</strong></a></h1>
+<h3 align="center">A game developer obsessed with beautiful pixels</h3>
 
-My name is Sergej and I am a Game Developer with a passion for game engines and photorealistic realtime rendering.
-I live in Berlin, Germany and am currently working for King on Candy Crush Saga.
+<img align="right" width="275px" src="https://github.com/polygonboutique/polygonboutique/raw/master/Logo.png">
 
-<!--
-**polygonboutique/polygonboutique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center"> About </h2>
 
-Here are some ideas to get you started:
+- 🎓 Self-taught C++ developer
+  
+- 🍬 Working on Candy Crush 
+  
+- ⚗️ Currently learning Unreal Engine 4
+  
+- 😻 Co-owner of <a target="_blank" href="https://www.instagram.com/sherlockandwatson_catventures/">Sherlock and Watson - Catventures</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2 align="center">🗣️ Social media</h2>  
+   
+<p align="left">  
+<!-- YouTube -->
+<a href="https://www.youtube.com/channel/UCsdCmhDxgQGVlPfewbTkx3g" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="youtube" height="30" width="40" /></a>  
+<!-- GitHub. -->
+<a href="https://github.com/polygonboutique" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="40" /></a>  
+<!-- Twitter -->
+<a href="https://twitter.com/tigerpunchsport" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30" width="40" /></a>  
+<!-- Stack Overflow -->
+<a href="https://stackoverflow.com/users/4962052/sergej-amnesia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14374481" height="30" width="40" /></a>
+</p>
