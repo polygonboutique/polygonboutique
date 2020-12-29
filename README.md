@@ -15,9 +15,6 @@
    
 - ⚗️ Currently learning Unreal Engine 4
 
-- 😻 Co-owner of <a target="blank" href="https://www.instagram.com/sherlockandwatson_catventures/">Sherlock and Watson - Catventures</a>
-
-
 <h2 align="center">🗣️ Social media</h2>  
    
 <p align="left">  
